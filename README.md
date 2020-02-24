@@ -3,16 +3,16 @@
 
 ## Schedule
 
-### Session 0 (Thursday)
+### Thursday, March 12, 2020 9am - Noon
 * Merlin
 * CompSim
 * ARG
 
-### Session 1 (Thursday)
+### Thursday, March 12, 2020 1:30pm - 4:30pm
 * Extending Next-Gen
 * CANDLE
-* Containers for HPC Workflows
+* Containers for HPC Workflows [https://supercontainers.github.io/wowoha20-tutorial/](link)
 
-### Session 2 (Friday)
+### Friday, March 13, 2020 9am - Noon
 * Kubernetes with Slate@OLCF
 * Maestro
